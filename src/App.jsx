@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
 //js
-  const username = 'Nata'
+  const username = 'Natali'
 
 
   return (
@@ -20,7 +20,7 @@ function App() {
       <h1>hello {username} </h1>
 
       <p className='blueText'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, dolores?</p>
-      
+
       <button>Click</button>
     </div>
   )
